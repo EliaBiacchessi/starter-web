@@ -16,6 +16,8 @@ Questo è un semplice progetto web, la distribuzione può essere su un qualsiasi
 
 ## Come contribuire
 
+Per piacere forca questa repository e crea una Richiesta di Pull per una revisione.
+
 ## Copyright
 
 2021 Elia Biacchessi

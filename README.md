@@ -4,4 +4,6 @@
 
 ## Obiettivo
 
+## Distribuzione
+
 ## Come contribuire

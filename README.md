@@ -1,6 +1,7 @@
 # Progetto web iniziale
 
-Questo è un semplice sito web creato per mostrare come usare Git e Github insieme.
+Questo è un semplice sito web creato per mostrare come usare Git e 
+Github insieme. Aggiunta una linea come esempio del rebasing.
 
 ## Introduzione
 

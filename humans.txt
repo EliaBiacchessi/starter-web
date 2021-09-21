@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Elia Biacchessi -- elia.biacchessi@jenia.it -- @elBiacco
 
 # THANKS
 

@@ -8,6 +8,10 @@ Questo è un esempio che mostra le differenti parti della repository Git e vari 
 
 ## Obiettivo
 
+Come specificato sopra, l'obiettivo principale è quello di dare semplici esempi per imparare ad usare Git
+
 ## Distribuzione
+
+Questo è un semplice progetto web, la distribuzione può essere su un qualsiasi server web o anche in un file system locale
 
 ## Come contribuire

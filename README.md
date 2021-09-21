@@ -15,3 +15,7 @@ Come specificato sopra, l'obiettivo principale è quello di dare semplici esempi
 Questo è un semplice progetto web, la distribuzione può essere su un qualsiasi server web o anche in un file system locale
 
 ## Come contribuire
+
+## Copyright
+
+2021 Elia Biacchessi

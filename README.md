@@ -20,4 +20,4 @@ Per piacere forca questa repository e crea una Richiesta di Pull per una revisio
 
 ## Copyright
 
-2021 Elia Biacchessi
+2021 Elia Biacchessi. Tutti i diritti riservati.
